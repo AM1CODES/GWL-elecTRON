@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/AM1CODES/GWL-elecTRON/blob/main/WhatsApp%20Image%202021-03-15%20at%203.16.00%20PM.jpeg" alt="drawing" width="300"/>
+</p>
+
+
+
 # Welcome to elecTRON
 
 This repository will be used as a medium to demonstrate use of Git. Some important steps and commands that are necessary to get started with Open source will also be given so that you can refer this repository in case you forget something.
